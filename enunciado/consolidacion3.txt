@@ -11,3 +11,10 @@ Aplicar bootstrap en el index.html -> Pedro
 Incorporar formulario con estilos bootstrap para registrar deportistas. -> Luis
 
 Crear Tabla para almacenar deportistas -> Mauricio
+
+Crear una ruta API que liste los deportistas
+
+Crear un ruta API que registre deportistas
+
+Enlazar el index.html(FRONTEND) con el API desarrollada
+
