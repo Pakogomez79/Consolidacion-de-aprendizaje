@@ -1,0 +1,13 @@
+Crear proyecto en github -> Francisco
+Publicar proyecto en github y compartirlo -> Francisco
+
+Iniciar proyecto npm -> Claudio
+Crear script index.js y publicar el servidor -> Claudio
+Crear archivo .gitignore para quitar seguimiento a la carpeta node_modules y package-lock.json -> Claudio
+
+Crear un archivo index.html y publicar en la ruta raíz -> Pedro
+Aplicar bootstrap en el index.html -> Pedro
+
+Incorporar formulario con estilos bootstrap para registrar deportistas. -> Luis
+
+Crear Tabla para almacenar deportistas -> Mauricio
